@@ -12,7 +12,7 @@ public class Main {
         byte añossinganar = 21;
         float pi = 3.14f;
         System.out.print("Hola Mundo \nLa u no tiene estadio\nLlevan " + añossinganar + " años sin ganar en el monumental.\n");
-        System.out.print("El valor de Pi es: " + pi "\n");
+        System.out.print("El valor de Pi es: " + pi + "\n");
         
     }
 }
